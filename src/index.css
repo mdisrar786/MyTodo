@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  background-color: rgb(95, 95, 187);
+  color: aliceblue;
+  text-align: center;
+  padding: 20px;
+  width: 50%;
+  margin-top: 200px;
+  margin-left: 350px;
+}
